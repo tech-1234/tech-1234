@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS and Redux**
 
-- 💬 Ask me about **NODE JS , EXPRESS JS,**
+- 💬 Ask me about **REACT ,NODE JS , EXPRESS JS**
 
 - 📫 How to reach me **ankitdutta1741@gmail.com**
 
